@@ -99,10 +99,11 @@ Yes. IPv4, IPv6, and CIDR ranges are all supported.
 
 ## Roadmap
 
-### v1.1.0 — Bulk Actions
+### v1.1.0 — Bulk Actions & Inclusive Terminology
 - [ ] Bulk blacklist selected IPs from the log table
 - [ ] "Blacklist All" button to blacklist every IP in the log at once
 - [ ] Confirmation dialog before bulk operations
+- [ ] Option to use color-neutral, non-exclusionary terminology — replace "blacklist/whitelist" with "blocklist/allowlist" (or "denylist/allowlist") throughout the plugin UI
 
 ### v1.2.0 — Whitelist Quick-Add
 - [ ] One-click whitelist button on the log page (mirror of blacklist button)
@@ -122,11 +123,6 @@ Yes. IPv4, IPv6, and CIDR ranges are all supported.
 - [ ] Click-to-view WHOIS data for any IP in the log
 - [ ] Country flag / geolocation display in the log table (via free API)
 - [ ] Filter log by country
-
-### v2.0.0 — Scheduled Automation
-- [ ] Auto-expire blacklist entries after a configurable time period
-- [ ] Scheduled cleanup of old log entries
-- [ ] WP-Cron integration for maintenance tasks
 
 ---
 
