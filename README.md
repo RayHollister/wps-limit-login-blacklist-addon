@@ -114,12 +114,7 @@ Yes. IPv4, IPv6, and CIDR ranges are all supported.
 - [ ] Import IPs from a file with duplicate detection and merge options
 - [ ] Copy-to-clipboard button on list pages
 
-### v1.4.0 — Log Enhancements
-- [ ] Sortable columns in the lockout log table (by IP, attempts, last seen)
-- [ ] Filter log by date range
-- [ ] Persistent column sort preference
-
-### v1.5.0 — WHOIS & Geo Lookup
+### v1.4.0 — WHOIS & Geo Lookup
 - [ ] Click-to-view WHOIS data for any IP in the log
 - [ ] Country flag / geolocation display in the log table (via free API)
 - [ ] Filter log by country
